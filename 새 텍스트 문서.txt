@@ -1,1 +1,7 @@
-ggggggg
+﻿ggggggg
+
+변경 1 - branch1 에서.
+
+변경 2 - UNICODE 에서 파일 인코딩을 UNICODE로 바꿈. utf16
+
+변경 3 - utf8로 저장.
